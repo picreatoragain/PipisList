@@ -1,0 +1,18 @@
+{
+    "id": 59075347,
+    "name": "Tartarus",
+    "author": "ItzDolphy",
+    "creators": ["ItzDolphy","might be a collab i forgot"],
+    "verifier": "cynoq",
+    "verification": "https://youtu.be/tXDUMqrUelU?si=yWiVRHzZRTvepM_t",
+    "percentToQualify": 100,
+    "password": "061742",
+    "records": [
+        {
+            "user": "cynoq",
+            "link": "https://youtu.be/tXDUMqrUelU?si=yWiVRHzZRTvepM_t",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
