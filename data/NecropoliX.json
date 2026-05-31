@@ -1,0 +1,19 @@
+{
+    "id": 36449129,
+    "name": "NecropoliX",
+    "author": "Namtar",
+    "creators": ["Namtar"],
+    "verifier": "EthanQc",
+    "verification": "https://youtu.be/mnvNpPJF0lk",
+    "percentToQualify": 100,
+    "password": "437643",
+    "records": [
+        {
+            "user": "EthanQc",
+            "link": "https://youtu.be/mnvNpPJF0lk",
+            "percent": 100,
+            "hz": 60
+          mobile: true
+        }
+    ]
+}
