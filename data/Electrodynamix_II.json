@@ -1,0 +1,18 @@
+{
+    "id": 4225700,
+    "name": "Electrodynamix II",
+    "author": "iv4n24",
+    "creators": ["iv4n24"],
+    "verifier": "Picreator",
+    "verification": "https://youtu.be/-y6q-DGoudA?si=QpGDgZKyg8r2yX2-",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Picreator",
+            "link": "https://youtu.be/-y6q-DGoudA?si=QpGDgZKyg8r2yX2-",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
