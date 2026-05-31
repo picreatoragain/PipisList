@@ -1,0 +1,18 @@
+{
+    "id": 15737190,
+    "name": "Gloomy Purgatory",
+    "author": "Deadly Sins",
+    "creators": ["Deadly Sins"],
+    "verifier": "Picreator",
+    "verification": "https://youtu.be/3OnISNC-0gc?si=ow6nrE3bD_uMsRRd",
+    "percentToQualify": 75,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Picreator",
+            "link": "https://youtu.be/3OnISNC-0gc?si=ow6nrE3bD_uMsRRd",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
