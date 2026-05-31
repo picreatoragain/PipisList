@@ -118,7 +118,7 @@ export default {
                         Play the unmodified version of a level.
                     </p>
                     <p>
-                        Your level submissions must be harder than B to be added to this list.
+                        Your level submissions must be harder than Fire Temple to be added to this list.
                     </p>
                 </div>
             </div>
