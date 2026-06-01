@@ -1,0 +1,18 @@
+{
+    "id": 63996127,
+    "name": "Cold Sweat",
+    "author": "para",
+    "creators": ["Para","Wulzy"],
+    "verifier": "bizzare",
+    "verification": "https://youtu.be/pI0dcZgPAcs?si=u47caZ9GS8vfCuyk",
+    "percentToQualify": 100,
+    "password": "061742",
+    "records": [
+        {
+            "user": "bizzare",
+            "link": "https://youtu.be/pI0dcZgPAcs?si=u47caZ9GS8vfCuyk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
