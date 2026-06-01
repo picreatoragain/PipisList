@@ -13,7 +13,13 @@
             "user": "Setoalex",
             "link": "https://youtu.be/k-Qr1k-T9GM?si=nmy_8aBDZDyJ8wDh",
             "percent": 100,
-            "hz": 300
+            "hz": 240
+        },
+         {
+            "user": "asa1a",
+            "link": "https://youtu.be/CoS4mkSRE1g?si=Z6dfS2yxw6Os-xXa",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
