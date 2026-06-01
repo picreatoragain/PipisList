@@ -1,0 +1,18 @@
+{
+    "id": 90853661,
+    "name": "Fog",
+    "author": "notes",
+    "creators": ["pixill1","notes"],
+    "verifier": "bizzare",
+    "verification": "https://youtu.be/6pOkhlhxyh4?si=cWvayAP9c21-zBkM ",
+    "percentToQualify": 100,
+    "password": "061742",
+    "records": [
+        {
+            "user": "bizzare",
+            "link": "https://youtu.be/6pOkhlhxyh4?si=cWvayAP9c21-zBkM ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
