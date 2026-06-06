@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "112516",
     "records": [
-
+  {
+            "user": "Brogee",
+            "link": "https://youtu.be/2Qk5Yv9JSgg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
