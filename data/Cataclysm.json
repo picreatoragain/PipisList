@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=BraP3qRdOnY",
             "percent": 100,
             "hz": 300
+        },
+           {
+            "user": "Androman",
+            "link": "https://youtu.be/-adbH6xrqu8?si=69dfHLwwcRxUmokz",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
