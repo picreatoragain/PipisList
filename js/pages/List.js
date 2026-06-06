@@ -118,7 +118,7 @@ export default {
                         Play the unmodified version of a level.
                     </p>
                     <p>
-                        Your level submissions must be above T14 to be added to this list.
+                        Your level submissions must be harder than top 60 in order to be added.
                     </p>
                 </div>
             </div>
