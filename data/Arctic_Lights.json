@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "No Password",
     "records": [
-
+  {
+            "user": "Pancakes",
+            "link": "https://youtu.be/KAq8JNXEA-8?si=D-E7xTKrKT32mXTe",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
