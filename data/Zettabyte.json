@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "No Password",
     "records": [
-
+  {
+            "user": "_uunbalanced",
+            "link": "https://youtu.be/mlh4hsN_5-o",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
